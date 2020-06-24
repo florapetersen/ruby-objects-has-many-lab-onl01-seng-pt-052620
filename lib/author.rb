@@ -10,5 +10,5 @@ class Author
   end
 
   def posts
-    
+    Post.select
 end
